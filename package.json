@@ -10,8 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-react-easy": "0.0.5",
-    "react": "^0.14.8",
-    "react-dom": "^0.14.8"
+    "gulp-react-easy": "0.0.6",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   }
 }
